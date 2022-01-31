@@ -16,7 +16,7 @@ npm install --save react-text-to-speech-hooks
 import React, { Component } from 'react'
 
 import MyComponent from 'react-text-to-speech-hooks'
-import 'react-text-to-speech-hooks/dist/index.css'
+
 
 class Example extends Component {
   render() {
