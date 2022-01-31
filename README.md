@@ -18,7 +18,7 @@ import React from 'react'
 import MyComponent from 'react-text-to-speech-hooks'
 
 
-function Test () {
+export default function Test () {
   
     return <MyComponent />
  
