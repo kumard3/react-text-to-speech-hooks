@@ -18,10 +18,10 @@ import React, { Component } from 'react'
 import MyComponent from 'react-text-to-speech-hooks'
 
 
-class Example extends Component {
-  render() {
+function Test () {
+  
     return <MyComponent />
-  }
+ 
 }
 ```
 
