@@ -13,7 +13,7 @@ npm install --save react-text-to-speech-hooks
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+import React from 'react'
 
 import MyComponent from 'react-text-to-speech-hooks'
 
